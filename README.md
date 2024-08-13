@@ -1,1 +1,3 @@
-The ECKGBench is a factuality benchmark to evaluate LLM's capability in the e-commerce domain. Each question is sampled from a large-scale, real-world e-commerce knowledge graph.  
+This is the dataset and evaluation source code of ECKGBench.
+
+ECKGBench is a factuality benchmark dataset to evaluate LLM's capability in the e-commerce domain. Each question is constructed from a large-scale, real-world e-commerce knowledge graph.  
