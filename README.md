@@ -40,7 +40,6 @@ We provide the necesarry demo for each stage of our proposed question generation
 The pipeline mainly consists of two parts: 
 - **Basic generation:** use template for quick generation of question prompts from KG.
 - **Negative sampling:** conduct the negative sampling for carefully select candidate choice, thereby improve question quality.
---· dfasfdsa 
 
 ### Inference and Evaluation: [eval](./eval.ipynb)
 We provide the demo for inference and evaluation based on ECKGBench.
